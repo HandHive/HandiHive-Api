@@ -1,12 +1,12 @@
-# HandiHive
+# HandiHive-Api
 
 HandiHive is an errand decentralized platform.
 
 ## Manual Installation
 
 - Clone the repo: git clone [this repo](https://github.com/HandHive/HandiHive-Api.git)
-- Change directory to the repo: cd HandiHive
-- Run all dependencies: npm install
+- Change directory to the repo: cd HandiHive-Api
+- Install dependencies: npm install
 - Run the server: npm run dev
 
 ## Table of Contents
