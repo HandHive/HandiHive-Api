@@ -47,6 +47,6 @@ SALT_ROUND=SALT_ROUND_HERE
 
 ## [API Documentation](#api-documentation)
 
-To view all APIs and learn all the details required for the requests and responses, click on this postman link:
+To view all APIs and learn all the details required for the requests and responses, click on this postman link: [API Documentation Link](https://documenter.getpostman.com/view/26786258/2sA3e5f8qD)
 
 **THANK YOU!**
