@@ -9,11 +9,6 @@ const bookAnErrand = async (req, res) => {
     }
 
     try {
-        // const user = await Auth.findById(id)
-        // if (!user) {
-        //     return res.status(400).json({ message: 'User not found' })
-        // }
-
         const errand = new BookErrand({
             fullName,
             phoneNumber,
